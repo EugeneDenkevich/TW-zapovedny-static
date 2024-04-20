@@ -1,1 +1,1 @@
-Static for Zapovedny Website
+# Статика для сайта "Усадьба 'Заповедный Остров'"
